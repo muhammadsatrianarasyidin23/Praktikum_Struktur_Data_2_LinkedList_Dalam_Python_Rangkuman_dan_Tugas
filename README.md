@@ -1,0 +1,1 @@
+# Praktikum_Struktur_Data_2_LinkedList_Dalam_Python_Rangkuman_dan_Tugas
